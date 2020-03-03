@@ -12,7 +12,7 @@
   position:absolute;
   z-index:0;
 }
-#u2629_img {
+#u2630_img {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -20,7 +20,7 @@
   width:350px;
   height:618px;
 }
-#u2629 {
+#u2630 {
   border-width:0px;
   position:absolute;
   left:22px;
@@ -28,7 +28,7 @@
   width:350px;
   height:618px;
 }
-#u2629_text {
+#u2630_text {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -37,43 +37,12 @@
   visibility:hidden;
   word-wrap:break-word;
 }
-#u2630_div {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:163px;
-  height:17px;
-  background:inherit;
-  background-color:rgba(255, 255, 255, 0);
-  border:none;
-  border-radius:0px;
-  -moz-box-shadow:none;
-  -webkit-box-shadow:none;
-  box-shadow:none;
-}
-#u2630 {
-  border-width:0px;
-  position:absolute;
-  left:403px;
-  top:365px;
-  width:163px;
-  height:17px;
-}
-#u2630_text {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:163px;
-  white-space:nowrap;
-}
 #u2631_div {
   border-width:0px;
   position:absolute;
   left:0px;
   top:0px;
-  width:453px;
+  width:163px;
   height:17px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
@@ -86,9 +55,9 @@
 #u2631 {
   border-width:0px;
   position:absolute;
-  left:394px;
-  top:45px;
-  width:453px;
+  left:403px;
+  top:365px;
+  width:163px;
   height:17px;
 }
 #u2631_text {
@@ -96,10 +65,41 @@
   position:absolute;
   left:0px;
   top:0px;
+  width:163px;
+  white-space:nowrap;
+}
+#u2632_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:453px;
+  height:17px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+}
+#u2632 {
+  border-width:0px;
+  position:absolute;
+  left:394px;
+  top:45px;
+  width:453px;
+  height:17px;
+}
+#u2632_text {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
   width:453px;
   white-space:nowrap;
 }
-#u2632 {
+#u2633 {
   border-width:0px;
   position:absolute;
   left:310px;

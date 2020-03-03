@@ -12,7 +12,7 @@
   position:absolute;
   z-index:0;
 }
-#u1202_div {
+#u1203_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -27,38 +27,13 @@
   -webkit-box-shadow:5px 5px 5px rgba(0, 0, 0, 0.349019607843137);
   box-shadow:5px 5px 5px rgba(0, 0, 0, 0.349019607843137);
 }
-#u1202 {
+#u1203 {
   border-width:0px;
   position:absolute;
   left:14px;
   top:22px;
   width:373px;
   height:618px;
-}
-#u1202_text {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:0px;
-  visibility:hidden;
-  word-wrap:break-word;
-}
-#u1203_img {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:375px;
-  height:20px;
-}
-#u1203 {
-  border-width:0px;
-  position:absolute;
-  left:13px;
-  top:12px;
-  width:375px;
-  height:20px;
 }
 #u1203_text {
   border-width:0px;
@@ -75,15 +50,15 @@
   left:0px;
   top:0px;
   width:375px;
-  height:21px;
+  height:20px;
 }
 #u1204 {
   border-width:0px;
   position:absolute;
   left:13px;
-  top:10px;
+  top:12px;
   width:375px;
-  height:21px;
+  height:20px;
 }
 #u1204_text {
   border-width:0px;
@@ -94,7 +69,32 @@
   visibility:hidden;
   word-wrap:break-word;
 }
-#u1205_div {
+#u1205_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:375px;
+  height:21px;
+}
+#u1205 {
+  border-width:0px;
+  position:absolute;
+  left:13px;
+  top:10px;
+  width:375px;
+  height:21px;
+}
+#u1205_text {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:0px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u1206_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -110,7 +110,7 @@
   box-shadow:none;
   font-size:16px;
 }
-#u1205 {
+#u1206 {
   border-width:0px;
   position:absolute;
   left:13px;
@@ -119,7 +119,7 @@
   height:45px;
   font-size:16px;
 }
-#u1205_text {
+#u1206_text {
   border-width:0px;
   position:absolute;
   left:2px;
@@ -127,7 +127,7 @@
   width:371px;
   word-wrap:break-word;
 }
-#u1206_div {
+#u1207_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -146,7 +146,7 @@
   font-style:normal;
   text-align:center;
 }
-#u1206 {
+#u1207 {
   border-width:0px;
   position:absolute;
   left:351px;
@@ -158,7 +158,7 @@
   font-style:normal;
   text-align:center;
 }
-#u1206_text {
+#u1207_text {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -166,7 +166,7 @@
   width:19px;
   white-space:nowrap;
 }
-#u1207_div {
+#u1208_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -185,7 +185,7 @@
   font-style:normal;
   font-size:16px;
 }
-#u1207 {
+#u1208 {
   border-width:0px;
   position:absolute;
   left:27px;
@@ -197,7 +197,7 @@
   font-style:normal;
   font-size:16px;
 }
-#u1207_text {
+#u1208_text {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -205,7 +205,7 @@
   width:11px;
   white-space:nowrap;
 }
-#u1208_div {
+#u1209_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -223,7 +223,7 @@
   color:#999999;
   text-align:center;
 }
-#u1208 {
+#u1209 {
   border-width:0px;
   position:absolute;
   left:115px;
@@ -234,7 +234,7 @@
   color:#999999;
   text-align:center;
 }
-#u1208_text {
+#u1209_text {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -242,7 +242,7 @@
   width:174px;
   white-space:nowrap;
 }
-#u1209_img {
+#u1210_img {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -250,7 +250,7 @@
   width:100px;
   height:100px;
 }
-#u1209 {
+#u1210 {
   border-width:0px;
   position:absolute;
   left:151px;
@@ -258,7 +258,7 @@
   width:100px;
   height:100px;
 }
-#u1209_text {
+#u1210_text {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -267,7 +267,7 @@
   visibility:hidden;
   word-wrap:break-word;
 }
-#u1210_div {
+#u1211_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -285,7 +285,7 @@
   color:#999999;
   text-align:center;
 }
-#u1210 {
+#u1211 {
   border-width:0px;
   position:absolute;
   left:151px;
@@ -296,7 +296,7 @@
   color:#999999;
   text-align:center;
 }
-#u1210_text {
+#u1211_text {
   border-width:0px;
   position:absolute;
   left:0px;
